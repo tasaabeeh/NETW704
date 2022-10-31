@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350830701116",
+    "project_id": "grocery-signaling",
+    "storage_bucket": "grocery-signaling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350830701116:android:c02bb0d094c3f026037139",
+        "android_client_info": {
+          "package_name": "com.example.grocery_signaling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350830701116-bau2q2edc5hvq3fj3acojri879o67uc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0lWYzlhGX2TsJEkSBskzzxzpelohoBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350830701116-bau2q2edc5hvq3fj3acojri879o67uc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
