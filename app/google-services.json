@@ -1,13 +1,14 @@
 {
   "project_info": {
     "project_number": "350830701116",
+    "firebase_url": "https://grocery-signaling-default-rtdb.firebaseio.com",
     "project_id": "grocery-signaling",
     "storage_bucket": "grocery-signaling.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:350830701116:android:c02bb0d094c3f026037139",
+        "mobilesdk_app_id": "1:350830701116:android:97c1695dff921067037139",
         "android_client_info": {
           "package_name": "com.example.grocery_signaling"
         }
@@ -20,7 +21,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCk0lWYzlhGX2TsJEkSBskzzxzpelohoBo"
+          "current_key": "AIzaSyDUjqZbyiynrDkRZRPV3iXr3HqBrYyCaTo"
         }
       ],
       "services": {
