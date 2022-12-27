@@ -5,12 +5,19 @@ buildscript {
         google()  // Google's Maven repository
 
         mavenCentral()  // Maven Central repository
+        maven{
+            url "https://oss.sonatype.org/content/repositories/snapshots"
+        }
 
     }
     dependencies {
         // Add the dependency for the Google services Gradle plugin
-        classpath 'com.google.gms:google-services:4.3.0'
+        classpath 'com.google.gms:google-services:4.3.14'
 
+    }
+    ext{
+        compileSdkVersion = 33
+        targetSdkVersion = 33
     }
 }
 
